@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(237,238,240);
+}
+
+.post {
+  width: 550px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(230,230,234);
+  background-color: white;
+}
+
+.post__header {
+  padding: 15px 20px 0px;
+}
+
+.post__content {
+    padding: 20px 20px 0 20px;
+}
